@@ -22,6 +22,11 @@ Program to implement the linear regression using gradient descent.
 Developed by: SASIDHARAN P 
 RegisterNumber:212223080051
 */
+/*
+Program to implement the linear regression using gradient descent.
+Developed by: SASIDHARAN P 
+RegisterNumber:212223080051
+*/
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
