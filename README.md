@@ -24,11 +24,6 @@ Developed by: Praveen kumar KY
 RegisterNumber: 212223080038  
 */
 ```
-/*
-Program to implement the linear regression using gradient descent.
-Developed by: SASIDHARAN P 
-RegisterNumber:212223080051
-*/
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
@@ -59,7 +54,6 @@ prediction=prediction.reshape(-1,1)
 pre=scaler.inverse_transform(prediction)
 print(prediction)
 print(f"Predicted value: {pre}")
-``
 
 
 Data Information
